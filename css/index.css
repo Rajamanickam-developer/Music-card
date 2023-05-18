@@ -17,14 +17,13 @@ body{
 
 .card{
     box-shadow: 12px 8px 12px rgba(0, 0, 0, 0.2);
-    width: 22%;
+    width: 21rem;
     display: flex;
     flex-direction: column;
-    gap: 20px;
+    gap: 10px;
     text-align: center;
     border-radius: 10px;
     background-color: hsl(225, 100%, 98%);
-
 }
 
 .card-image{
